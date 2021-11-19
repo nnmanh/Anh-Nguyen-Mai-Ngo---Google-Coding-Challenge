@@ -1,1 +1,1 @@
-# Anh-Nguyen-Mai-Ngo---Google-Coding-Challenge
+# Google-Coding-Challenge
